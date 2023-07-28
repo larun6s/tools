@@ -22,6 +22,7 @@ nbactions.xml
 
 # ignore all hidden files except .github and .gitignore
 .*
+!.bashrc
 !.gitignore
 !.gitattributes
 !.github

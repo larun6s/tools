@@ -1,0 +1,32 @@
+CJS
+1. E2E workflow code completion [Samyak]
+2. E2E workflow tesing for NDepth [Samyak]
+3. E2E workflow testing for Ns-mx [Samyak]
+4. CJS EFK integration for error and warning logs [Samyak]
+5. Replace MongoDB Integration with MySQL [Navneet]
+6. Resumable Push Message Step [Navneet]
+7. Checklist for Rollout [Arun & Preethi]
+8. DevSetup Security Review [Navneet]
+9. Rollout security review [Navneet]
+
+CMS
+1. Review [Arun]
+
+NDepth
+1. Deepdive into different errors [Anil]
+2. Passive rollout of Bi-weekly [Anil]
+3. Regression of Monthly [Anil]
+
+@aj please add missing or more tasks to you.
+
+Horizontal
+1. NDepth leadership demo prep [Preethi, Arun, Anil]
+2. Az->AWS Migration followups with AWS team [Arun]
+3. Gitops for Crawler deployments [Arun]
+4. DAPy: Azure Core Subscription Issues Impact [Arun]
+5. 
+
+
+
+
+docker run --hostname=c21163852a63 --mac-address=02:42:ac:11:00:02 --env=MYSQL_ROOT_PASSWORD=root --env=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin --env=GOSU_VERSION=1.14 --env=MYSQL_MAJOR=8.0 --env=MYSQL_VERSION=8.0.32-1.el8 --env=MYSQL_SHELL_VERSION=8.0.32-1.el8 --volume=/var/lib/mysql --runtime=runc -d mysql:latestv

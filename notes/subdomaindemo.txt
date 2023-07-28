@@ -1,0 +1,8 @@
+give intuitive names to modes.
+How about if certain techs has different companies list?
+create extension tickets to store resiliency and tech config out side jvm and read throufg cache
+Get clarity on Fetcher queue partitioning
+do we have worker,vm details in logs? let's keep them in MDC.
+where are we configuring tech parallellism?
+what is the unknown host error while queuing to fetcher queues?
+who to reach in DE team for merging csv files?

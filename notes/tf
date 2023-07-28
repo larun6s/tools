@@ -1,0 +1,17 @@
+Network
+subnets
+security groups and rules
+vms
+disks
+network interfaces
+ip address
+redis
+kafka
+storage accounts
+vault storage - create, modify and delete access policies
+iam role assignments
+
+----
+
+subscriptions
+resource groups

@@ -1,0 +1,4 @@
+do we need to store dig o/p RAW data?
+if yes for above, does Java DNS lib fulfil the same?
+how to implement resiliency?
+    - check retries in current process.

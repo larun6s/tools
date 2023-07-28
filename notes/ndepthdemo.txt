@@ -1,0 +1,12 @@
+1. partition by IP. why?
+2. why should dedup subscribe status stream??
+3. are we really storing the original urls in dedup?
+4. what about Navneet Qs regarding failed URLs?
+5. what about Vineet's reentrant error Qs?
+6. clear intuuitive fetcher metric names
+7. Redis tech debt
+8. "Influences" column in COnf doc. Make it better
+9. Use only Browser as Agent for now across all crawlers for V1. Find right details to put after infra migration.
+10. When and How we ensure success & coverage in intact?
+11. What are the impactful confs ? like agent name, ingestion rate, redirections etc.
+12. When do we have more deep dive tech eng parameters.

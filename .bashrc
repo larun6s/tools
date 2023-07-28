@@ -16,7 +16,7 @@ alias rm='rm -i'
 alias a-on='/Users/arunlingala/dev/tools/airplaneMode.sh 1'
 alias a-off='/Users/arunlingala/dev/tools/airplaneMode.sh 0'
 alias lag='sh /Users/arunlingala/dev/tools/dapy/lag.sh'
-alias CJS='/Users/arunlingala/dev/tools/dapy/cjs.sh'
+alias cjs='/Users/arunlingala/dev/tools/dapy/cjs.sh'
 alias zoomSearch='sh /Users/arunlingala/dev/tools/zoom/search.sh'
 
 # Productivity hacks

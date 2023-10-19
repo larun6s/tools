@@ -22,7 +22,8 @@ function timeAtleast() {
 # Open the following pages
 links=()
 
-if timeAtleast 12 30; then
+# @ 2:30 PM
+if timeAtleast 14 40; then
 links=(
  "https://6sense-my.sharepoint.com/:x:/p/arun_lingala/EV_Jk5XoiJRHmtdy-kTo_7ABHt2XMNJhiZT41wJFnDj4dg?e=ETyLel"
  )

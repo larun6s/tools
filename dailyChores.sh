@@ -13,15 +13,17 @@ DAPyMom="https://6sense.atlassian.net/wiki/spaces/EN/pages/2597913035/DAPy+MoM+D
 atlassianNotifications="https://start.atlassian.com/notifications"
 sprintExpectations="https://6sense.atlassian.net/wiki/spaces/EN/pages/2800224015/DAPy+Sprint+Planning+Place+Holder"
 tsScrumBoard="https://6sense.atlassian.net/jira/software/c/projects/CORE/boards/306?assignee=62df7228831f463d28e885e6"
+wikiToBeRead="https://6sense.atlassian.net/wiki/home/starred"
 
 # Open the following pages
 myDailyChoresLinks=($dailyChoresGuide
- $sprintExpectations
+ #$sprintExpectations
  $planner
  # $scrumBoard
- # $myTkts
- $scrumBoard
- $tsScrumBoard
+ $myTkts
+ $wikiToBeRead
+#  $scrumBoard
+#  $tsScrumBoard
  $atlassianNotifications)
 
 last=${#myDailyChoresLinks[@]}

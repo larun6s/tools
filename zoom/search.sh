@@ -2,7 +2,7 @@
 
 # Check if the user provided a search string as a parameter
 if [ -z "$1" ]; then
-  echo "Usage: $0 <search_string. SHOULD ESCAPE SPECIL CHARS LIKE PIPE etc>"
+  echo "Usage: $0 <search_string. SHOULD ESCAPE SPECIAL CHARS LIKE PIPE etc>"
   exit 1
 fi
 
